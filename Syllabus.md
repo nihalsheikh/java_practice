@@ -1,3 +1,5 @@
+# Java Training Syllabus
+
 - [x] Complete Git & GitHub Course
 - [ ] Introduction to Programming
 - [ ] Types of languages
