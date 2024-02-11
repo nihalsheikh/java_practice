@@ -15,3 +15,5 @@ Commands used in this practise
 5. git restore --staged <filename>
 	- if you want to remove the added file before commiting use this cmd.
 
+6. git log
+	- to check all the changes made
