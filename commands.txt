@@ -1,0 +1,17 @@
+Commands used in this practise
+
+1. git init
+	- to initialize the git
+
+2. git status
+	- to check whether the work tree is clean or not, or is there any changes to be made or have been made
+
+3. git add .
+	- if any changes made, then add them to the tree/branch
+
+4. git commit -m "message"
+	- the added changes in the previous cmd are now made permanent
+
+5. git restore --staged <filename>
+	- if you want to remove the added file before commiting use this cmd.
+
