@@ -49,4 +49,15 @@ Commands used in this practise
 		- git push origin main
 	12. Done! added files from master to main branch.
 
-9. new cmd
+9. Merging commands
+	- to merge commits, lets say you have four different commits a, b, c, d.
+	- to merge these commits write the following cmd:
+		- git rebase -i <hash_value of the commit before these commits>
+	- you will see various options here
+	- "pick" written as p:- means this is the main commit you want to 
+		go ahead with.
+	- "squash" writen as s:- means you mean to add these commit to the main
+		pick commit
+	- Done. Commits are now merged as one
+
+10. new cmd
