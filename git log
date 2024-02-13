@@ -1,0 +1,68 @@
+[33mcommit c87f9c45368be121d6aa904c6fa843b95a78b07d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 04679f6 ba5f9a1
+Author: Nihal <nihalsheikh585@gmail.com>
+Date:   Tue Feb 13 15:26:04 2024 +0530
+
+    Merge branch 'secondary'
+
+[33mcommit ba5f9a175a42bb30dc64179ec0a0d4a0b9baa40d[m[33m ([m[1;31morigin/secondary[m[33m, [m[1;32msecondary[m[33m)[m
+Author: Nihal <nihalsheikh585@gmail.com>
+Date:   Tue Feb 13 15:22:14 2024 +0530
+
+    making commits for the main branch
+
+[33mcommit 594e4a31cb0746fdc9adc6118c620d67355b0e17[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Nihal <nihalsheikh585@gmail.com>
+Date:   Sun Feb 11 19:41:13 2024 +0530
+
+    modified again git cmd practise file
+
+[33mcommit bac11a00b386842dcd496f05623f289fefe9b985[m
+Author: Nihal <nihalsheikh585@gmail.com>
+Date:   Sun Feb 11 19:35:30 2024 +0530
+
+    modified git cmd practise file
+
+[33mcommit 7bd17d57ee4f38a83185e0ba358714fb6e857e46[m
+Author: Nihal <nihalsheikh585@gmail.com>
+Date:   Sun Feb 11 19:28:24 2024 +0530
+
+    added git cmd practise file
+
+[33mcommit 04679f6cd682d6c818f01f34bfc3c61162095c8e[m
+Author: Nihal <81211134+nihalsheikh@users.noreply.github.com>
+Date:   Sun Feb 11 19:03:23 2024 +0530
+
+    Update Syllabus.md
+
+[33mcommit 3ab1a6259996f7d94621c92703a43c08c0a1a819[m
+Author: Nihal <81211134+nihalsheikh@users.noreply.github.com>
+Date:   Sun Feb 11 19:02:19 2024 +0530
+
+    Rename task.md to 11-02.md
+
+[33mcommit 63500b2c9263b83ffbcf45d0528c1bb3b20bf2d7[m
+Author: Nihal <81211134+nihalsheikh@users.noreply.github.com>
+Date:   Sun Feb 11 19:01:35 2024 +0530
+
+    Update Syllabus.md
+    
+    added check boxes
+
+[33mcommit 8ad1da84094e9664234cf91de4b0dea61c2985cf[m
+Author: Nihal <81211134+nihalsheikh@users.noreply.github.com>
+Date:   Sun Feb 11 18:43:53 2024 +0530
+
+    Create task.md
+
+[33mcommit d872cbc8deb2cad9691dd4dc15921a603acd1018[m
+Author: Nihal <81211134+nihalsheikh@users.noreply.github.com>
+Date:   Tue Feb 6 19:52:00 2024 +0530
+
+    Create Syllabus.md
+
+[33mcommit 71eebfcd207cb0d5be70d3647217796fc3be69d7[m
+Author: Nihal <nihalsheikh585@gmail.com>
+Date:   Tue Feb 6 19:03:27 2024 +0530
+
+    first commit

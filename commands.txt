@@ -21,4 +21,32 @@ Commands used in this practise
 7. git reset <hash id of the commit>
 	- when you want to reset your commits to a certain stage of project after making the changes, use this cmd to go back to that stage. It will remove the stages/commits made above this commit(copied hash id from)
 
-8. git
+8. Way to merge Master and Main branch:
+	1. go to the branch from where you want to bring the file to the end
+	2. use the following cmds:
+		- git fetch <branch(master/main)>
+		- git checkout <branch(master/main)>
+		- git pull origin <branch(master/main)>
+	3. Now create an alternate branch, and copy or add the files to this branch
+	4. use the following cmd to create a new branch
+		- git checkout -b <branch_name>
+	5. make your changes to this branch by using this cmds:
+		- git add .
+		- git commit -m "message"
+		- git push origin "alternate_branch_name"
+	6. now its time to merge the alternate and main/master branch
+	7. change the branch to the required branch location(main/master) by using the cmd:
+		- git checkout <main/master>
+	8. Now merge changes from alternate_branch by using this cmd:
+		- git merge <alternate_branch_name>
+	9. resolve any confilcts, like if it is showing an error like "fatal: refusing to
+		merge unrelated histores", use this cmd:
+		- git merge <alternate_branch_name> --allow-unrelated-histories
+	10. after resolving conflicts, now commit the changes by using this cmds:
+		- git add .
+		- git commit -m "resolved conflicts"
+	11. push the changes to the main branch by using this cmd:
+		- git push origin main
+	12. Done! added files from master to main branch.
+
+9. new cmd
