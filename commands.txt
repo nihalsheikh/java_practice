@@ -20,3 +20,5 @@ Commands used in this practise
 
 7. git reset <hash id of the commit>
 	- when you want to reset your commits to a certain stage of project after making the changes, use this cmd to go back to that stage. It will remove the stages/commits made above this commit(copied hash id from)
+
+8. git
