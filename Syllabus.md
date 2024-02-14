@@ -1,12 +1,12 @@
 # Java Training Syllabus
 
 - [x] Complete Git & GitHub Course
-- [ ] Introduction to Programming
-- [ ] Types of languages
-    - Memory management
-- [ ] Flow of the program
-    - Flowcharts
-    - Pseudocode
+- [x] Introduction to Programming
+- [x] Types of languages
+    - [x] Memory management
+- [x] Flow of the program
+    - [x] Flowcharts
+    - [x] Pseudocode
 - [ ] Introduction to Java
     - Introduction
     - How it works
